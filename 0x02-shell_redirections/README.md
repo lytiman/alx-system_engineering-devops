@@ -1,1 +1,2 @@
-Write a script that prints “Hello, World”, followed by a new line to the standard output.
+the script echo 'Hello,WORLD' shows the the Hello World message
+the script echo '"(Ôo)'' writes this smiley picture  
